@@ -1,7 +1,7 @@
 *{
     margin: 0 auto;
     padding: 0;
-    color: #fff;
+    color: #0000;
     font-family: 'Franklin Gothic Medium';
     list-style: none;
     font-weight: 100;
@@ -13,9 +13,10 @@
     margin: 40px 25%;
     border: 1px solid;
     padding: 10px;
+    background-color: #ffff;
 }
 body{
-    background-color: #000000;
+    background-color: #33333;
 }
 .wrapper{
     width: 100%;
